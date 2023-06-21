@@ -1,0 +1,7 @@
+*.git
+*.vs
+*.idea
+*.db
+debug/
+bin/
+obj/
